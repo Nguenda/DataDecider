@@ -27,15 +27,6 @@ List the names and roles of each team member, as well as their contributions to 
 ## Collaboration
 Describe how you collaborated on the project, including how you communicated, divided tasks, and resolved conflicts.
 
-## Data Collection
-Explain how you collected the data for the project, including the sources and time period.
-
-## Data Preparation
-Describe the steps taken to clean, preprocess, and transform the data for analysis.
-
-## Assumptions
-List any assumptions made during the project, such as the level of aggregation, instantaneous pickups and drop-offs, and station-specific considerations.
-
 ## Exploratory Analysis
 Highlight key insights gained from the exploratory analysis, such as docking setup, weather impact, and station-specific patterns.
 
