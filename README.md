@@ -1,7 +1,8 @@
 # DataDecider
 Highlights the role of data-driven decision-making in ML projects.
 
-# Machine Learning Project: BikeShare Business Case
+# ![Machine Learning Project: BikeShare Business Case](https://github.com/Nguenda/DataDecider/blob/05e61f5b5a12ff57103f8e57ad90662d6a8823c1/Machine%20learning%201_project_BikeShare.pdf)
+
 
 ## Overview
 The problem addressed in this report is optimizing bike and dock allocations at two Bikeshare stations in Washington D.C., specifically '21st & I St NW' and '21st St & Pennsylvania Ave NW'.  Machine learning techniques were used to predict the daily demand for bikes and docks, providing strategic insights and operational recommendations. The analysis utilized historical data of bike usage at the stations and five machine learning models: Linear Regression, Lasso, KNN, Ridge Regression, and Elastic Net. The models were trained and evaluated using cross-validation and the Mean Squared Error (MSE) metric. The goal is to enhance Bikeshare's efficiency by ensuring customers can easily find bikes and available docks.
