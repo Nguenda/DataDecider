@@ -18,31 +18,25 @@ Several assumptions were made for the analysis:
 
 .
 ## Exploratory Analysis
-![]([image.jpg](https://github.com/Nguenda/DataDecider/blob/main/Screen%20Shot%202023-05-10%20at%208.04.32%20PM.png))
-![]([image.jpg](https://github.com/Nguenda/DataDecider/blob/main/Screen%20Shot%202023-05-10%20at%208.04.45%20PM.png))
+![](https://github.com/Nguenda/DataDecider/blob/92892e3fc797d4973d6ed92f93d54374d22af881/Screen%20Shot%202023-05-10%20at%208.04.32%20PM.png)
+![](https://github.com/Nguenda/DataDecider/blob/92892e3fc797d4973d6ed92f93d54374d22af881/Screen%20Shot%202023-05-10%20at%208.04.45%20PM.png)
 
 
-Highlight key insights gained from the exploratory analysis, such as docking setup, weather impact, and station-specific patterns.
+Key Insights from the Exploratory Analysis:
+1. Docking Set up:
+   - The realtime data from Bikeshare observed distinct differences in the available docks for both '21st and I St' and '21st St & Pennsylvania Ave'. The available docks at '21st and I St' (35 Docks) were higher compared to '21st St & Pennsylvania Ave' (19 Docks), likely due to increased demand at the station.
 
+2. Weather Impact:
+   - Temperature: We found a positive correlation between temperature and bike usage, with demand increasing as temperatures rose. However, this trend is disrupted by precipitation.
+   - Precipitation: There was a negative correlation between precipitation and bike usage, indicating that rainy or snowy days typically result in lower demand for bikes.
 
-## Results
-![Alt Text](image.jpg)
-![Alt Text](image.jpg)
-![Alt Text](image.jpg)
-![Alt Text](image.jpg)
-
-
-Summarize the results of your analysis, including any metrics or visualizations that demonstrate the performance of your model.
-
-## Contributors
-List the names and roles of each team member, as well as their contributions to the project.
-
-## Collaboration
-Describe how you collaborated on the project, including how you communicated, divided tasks, and resolved conflicts.
-
+3. Station-specific Patterns:
+   - Differences in Demand: Varying levels of demand were observed between the two stations, likely attributable to differences in the surrounding areas, such as the presence of commercial buildings, residential areas, or popular destinations. Generally, '21st and I St' exhibited higher demand with more pickups and drop-offs compared to '21st St & Pennsylvania Ave'.
+   - Imbalances in Pickups and Drop-offs: An imbalance between the number of pickups and drop-offs at each station was noted, indicating the need for a proactive approach to redistributing bikes and docks to ensure optimal service levels.
 
 ## Model Performance Evaluation
 Present the performance evaluation of different models, including MSE comparison and other relevant metrics.
+![](https://github.com/Nguenda/DataDecider/blob/fbc6c195db0bd0b861beba3143e51003207c3a80/Screen%20Shot%202023-05-10%20at%208.27.16%20PM.png)
 
 ## Model Selection
 Explain why a specific model was chosen as the preferred model and highlight its strengths and interpretability.
@@ -58,4 +52,11 @@ Summarize the insights gained from the project and acknowledge any limitations o
 
 ## Conclusion
 Conclude the README.md file by summarizing the project's objectives, achievements, and the potential impact of the findings.
+
+## Contributors
+List the names and roles of each team member, as well as their contributions to the project.
+
+## Collaboration
+Describe how you collaborated on the project, including how you communicated, divided tasks, and resolved conflicts.
+
 
