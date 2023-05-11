@@ -39,24 +39,50 @@ Present the performance evaluation of different models, including MSE comparison
 ![](https://github.com/Nguenda/DataDecider/blob/fbc6c195db0bd0b861beba3143e51003207c3a80/Screen%20Shot%202023-05-10%20at%208.27.16%20PM.png)
 
 ## Model Selection
-Explain why a specific model was chosen as the preferred model and highlight its strengths and interpretability.
+LASSO model was chosen as the preferred model. Our analysis revealed that LASSO outperformed the other models when evaluated by the Mean Squared Error(MSE) as shown in table 1 above. 3 out 4 MSEs from the LASSO model were found to be the lowest of the 5 models which were used and yielded the best performance on the validation set. Furthermore, LASSO had the least number of features after hyper parameter tuning, which reduces the cost of running the model. It’s interpretability was considered to be 
+more difficult than linear regression but still understandable.
 
 ## Predictive Modeling
 Provide the predicted number of bikes for pick-up and drop-off using the selected model.
+![](https://github.com/Nguenda/DataDecider/blob/9fb3e71d58562282635da526758561d1a869fab2/Screen%20Shot%202023-05-10%20at%208.37.55%20PM.png)
+
+After analyzing a set of features from the test dataset, the Lasso Regression model predicted the number of 
+pickups and drop-offs for the two stations, as displayed in Table 2.
 
 ## Decision-Making
-Outline the implications and recommendations for bike and dock allocation based on the model's predictions.
+Based on the model's predictions, the decision-making process for bike and dock allocation involves monitoring pickups and drop-offs at the stations. Surplus bikes at the '21st & I St NW' station and the need for additional docks at '21st St & Pennsylvania Ave NW' station are identified. Recommendations include automated allocation based on real-time predictions, regular model updates, planning maintenance during low-demand periods, major rebalancing during busy months, evaluating station performance, and using app data for accurate demand prediction.
 
 ## Insights and Limitations
-Summarize the insights gained from the project and acknowledge any limitations or areas for further improvement.
+nsights gained from the project include the effectiveness of the chosen model in predicting bike demand, the significant impact of weather conditions on demand, and the potential for optimizing resource allocation based on the model's predictions.
+
+However, there are several limitations and areas for further improvement. The model's performance is dependent on the quality and quantity of available data, and the analysis was limited to daily pickups, which may not capture the full picture of bikeshare operations throughout the day. Unforeseen events and external factors are not accounted for in the model, which may affect bike demand. Regular retraining of the model may be necessary to adapt to changing patterns and trends.
 
 ## Conclusion
-Conclude the README.md file by summarizing the project's objectives, achievements, and the potential impact of the findings.
+This study demonstrates the potential of machine learning models in optimizing Bikeshare's operations by 
+predicting bike demand at specific stations. After comparing the performance of various machine learning 
+models, we found that Lasso Regression yielded the most accurate and reliable predictions for bike demand 
+at the two stations: '21st & I St NW' and '21st St & Pennsylvania Ave NW'. In this report, we outlined some 
+dynamic and impactful decision recommendations based on the insights gained from the Lasso Regression 
+model to optimize bike and dock allocation for Bikeshare's operations. By leveraging data and the selected 
+model, Bikeshare can make data-driven decisions to allocate resources more efficiently and improve its 
+overall service quality
 
 ## Contributors
-List the names and roles of each team member, as well as their contributions to the project.
+Team members: Agnes Nguenda, Emmanuel Asong, Nigel Nyajeka, Meakin Marange
+
+As a team of MSBA students, each member brought their unique skills and knowledge to the project. They worked collaboratively to tackle various aspects of the project, including project management, data preprocessing, model development, research, and data analysis. The team's combined efforts resulted in the successful completion of the project and the achievement of its objectives.
 
 ## Collaboration
-Describe how you collaborated on the project, including how you communicated, divided tasks, and resolved conflicts.
+During the project, we fostered a collaborative environment and utilized effective communication channels to ensure smooth collaboration. We primarily communicated through regular team meetings, both in-person and online, where we discussed project progress, shared updates, and addressed any issues or concerns. Additionally, we maintained open communication channels through instant messaging platforms and email for day-to-day interactions.
+
+To divide tasks, we initially assessed each team member's strengths, interests, and areas of expertise. Based on this assessment, we allocated tasks accordingly, considering the individual's skills and workload balance. We aimed for a fair distribution of responsibilities and ensured that each team member had the opportunity to contribute and develop their skills.
+
+In terms of conflict resolution, we encouraged open and respectful discussions when disagreements arose. We actively listened to each other's perspectives, sought common ground, and worked towards finding mutually agreeable solutions. In case of significant conflicts, we sought the guidance of our project advisor or faculty member to help mediate and provide guidance for resolution.
+
+Overall, our collaborative approach, effective communication, task allocation, and conflict resolution strategies allowed us to work efficiently as a team, leverage our collective strengths, and successfully complete the project.
+
+
+
+
 
 
