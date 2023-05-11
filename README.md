@@ -17,8 +17,21 @@ Several assumptions were made for the analysis:
 - Rebalancing bikes can add a maximum number of bikes up to the available docks at a station.
 
 .
+## Exploratory Analysis
+![]([image.jpg](https://github.com/Nguenda/DataDecider/blob/main/Screen%20Shot%202023-05-10%20at%208.04.32%20PM.png))
+![]([image.jpg](https://github.com/Nguenda/DataDecider/blob/main/Screen%20Shot%202023-05-10%20at%208.04.45%20PM.png))
+
+
+Highlight key insights gained from the exploratory analysis, such as docking setup, weather impact, and station-specific patterns.
+
 
 ## Results
+![Alt Text](image.jpg)
+![Alt Text](image.jpg)
+![Alt Text](image.jpg)
+![Alt Text](image.jpg)
+
+
 Summarize the results of your analysis, including any metrics or visualizations that demonstrate the performance of your model.
 
 ## Contributors
@@ -27,8 +40,6 @@ List the names and roles of each team member, as well as their contributions to 
 ## Collaboration
 Describe how you collaborated on the project, including how you communicated, divided tasks, and resolved conflicts.
 
-## Exploratory Analysis
-Highlight key insights gained from the exploratory analysis, such as docking setup, weather impact, and station-specific patterns.
 
 ## Model Performance Evaluation
 Present the performance evaluation of different models, including MSE comparison and other relevant metrics.
