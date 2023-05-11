@@ -1,7 +1,7 @@
 # DataDecider
 Highlights the role of data-driven decision-making in ML projects.
 
-# ![Machine Learning Project: BikeShare Business Case](https://github.com/Nguenda/DataDecider/blob/05e61f5b5a12ff57103f8e57ad90662d6a8823c1/Machine%20learning%201_project_BikeShare.pdf)
+# [Machine Learning Project: BikeShare Business Case](https://github.com/Nguenda/DataDecider/blob/05e61f5b5a12ff57103f8e57ad90662d6a8823c1/Machine%20learning%201_project_BikeShare.pdf)
 
 
 ## Overview
