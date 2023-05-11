@@ -68,7 +68,7 @@ model, Bikeshare can make data-driven decisions to allocate resources more effic
 overall service quality
 
 ## Contributors
-Team members: Agnes Nguenda, Emmanuel Asong, Nigel Nyajeka, Meakin Marange
+Team members: **Agnes Nguenda, Emmanuel Asong, Nigel Nyajeka, Meakin Marange**
 
 As a team of MSBA students, each member brought their unique skills and knowledge to the project. They worked collaboratively to tackle various aspects of the project, including project management, data preprocessing, model development, research, and data analysis. The team's combined efforts resulted in the successful completion of the project and the achievement of its objectives.
 
