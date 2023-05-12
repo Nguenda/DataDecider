@@ -3,14 +3,13 @@ Highlights the role of data-driven decision-making in ML projects.
 
 This portfolio provides the following content for the project:
 
-1. 4 csv files, which are the datasets we used to build the model as well as to perform the analysis.
-2. Team Final Report: This pdf file is a detailed report on this project, with text and images to illustrate the content, mainly for the textual presentation of the results.
-3. GA_Capitalbikeshare.ipynb: This file is the complete code file for this project, and users can view and run the code through Jupyter Notebook or web pages.
+1. [4 csv files](, which are the datasets we used to build the model as well as to perform the analysis.
+2. [Team Final Report](https://github.com/Nguenda/DataDecider/blob/05e61f5b5a12ff57103f8e57ad90662d6a8823c1/Machine%20learning%201_project_BikeShare.pdf): This pdf file is a detailed report on this project, with text and images to illustrate the content, mainly for the textual presentation of the results.
+3. [GA_Capitalbikeshare.ipynb](https://github.com/Nguenda/DataDecider/blob/main/GA_CapitalBikeshare.ipynb): This file is the complete code file for this project, and users can view and run the code through Jupyter Notebook or web pages.
 4. images from analysis
 
 
-# [Machine Learning Project: BikeShare Business Case](https://github.com/Nguenda/DataDecider/blob/05e61f5b5a12ff57103f8e57ad90662d6a8823c1/Machine%20learning%201_project_BikeShare.pdf)
-
+# Machine Learning Project: BikeShare Business Case
 
 ## Overview
 The problem addressed in this report is optimizing bike and dock allocations at two Bikeshare stations in Washington D.C., specifically '21st & I St NW' and '21st St & Pennsylvania Ave NW'.  Machine learning techniques were used to predict the daily demand for bikes and docks, providing strategic insights and operational recommendations. The analysis utilized historical data of bike usage at the stations and five machine learning models: Linear Regression, Lasso, KNN, Ridge Regression, and Elastic Net. The models were trained and evaluated using cross-validation and the Mean Squared Error (MSE) metric. The goal is to enhance Bikeshare's efficiency by ensuring customers can easily find bikes and available docks.
