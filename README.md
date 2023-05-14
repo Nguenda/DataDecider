@@ -7,7 +7,7 @@ This portfolio provides the following content for the project:
 2. [Team Final Report](https://github.com/Nguenda/DataDecider/blob/05e61f5b5a12ff57103f8e57ad90662d6a8823c1/Machine%20learning%201_project_BikeShare.pdf): This PDF file is a detailed report on the project, containing text and images to illustrate the content.
 3. [CapitalBikeshare_21st_&_I_St_NW.ipynb](https://github.com/Nguenda/DataDecider/blob/main/CapitalBikeshare_21st_%26_I_St_NW.ipynb): This file is the code file for the project related to 21st_&_I_St_NW. Users can view and run the code through Jupyter Notebook.
 4. [CapitalBikeshare_21st_St_&_Pennsylvania_Ave_NW.ipynb](https://github.com/Nguenda/DataDecider/blob/main/CapitalBikeshare_21st_St_%26_Pennsylvania_Ave_NW.ipynb): This file is the code file for the project related to 21st_St_&_Pennsylvania. Users can view and run the code through Jupyter Notebook.
-5. Images 
+5. mages for explanatory analysis.
 
 
 # Machine Learning Project: BikeShare Business Case
