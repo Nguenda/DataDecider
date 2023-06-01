@@ -62,7 +62,7 @@ pickups and drop-offs for the two stations, as displayed in Table 2.
 Based on the model's predictions, the decision-making process for bike and dock allocation involves monitoring pickups and drop-offs at the stations. Surplus bikes at the '21st & I St NW' station and the need for additional docks at '21st St & Pennsylvania Ave NW' station are identified. Recommendations include automated allocation based on real-time predictions, regular model updates, planning maintenance during low-demand periods, major rebalancing during busy months, evaluating station performance, and using app data for accurate demand prediction.
 
 ## Insights and Limitations
-nsights gained from the project include the effectiveness of the chosen model in predicting bike demand, the significant impact of weather conditions on demand, and the potential for optimizing resource allocation based on the model's predictions.
+The insights gained from the project include the effectiveness of the chosen model in predicting bike demand, the significant impact of weather conditions on demand, and the potential for optimizing resource allocation based on the model's predictions.
 
 However, there are several limitations and areas for further improvement. The model's performance is dependent on the quality and quantity of available data, and the analysis was limited to daily pickups, which may not capture the full picture of bikeshare operations throughout the day. Unforeseen events and external factors are not accounted for in the model, which may affect bike demand. Regular retraining of the model may be necessary to adapt to changing patterns and trends.
 
